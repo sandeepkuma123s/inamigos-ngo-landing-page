@@ -1,4 +1,4 @@
-<img width="1763" height="4099" alt="Screenshot_19-6-2026_155239_127 0 0 1" src="https://github.com/user-attachments/assets/141c1663-9e32-4aac-b54d-4899293ee369" /># 🌍 InAmigos NGO Awareness Webpage
+# 🌍 InAmigos NGO Awareness Webpage
 
 A responsive NGO awareness website developed to showcase the mission, projects, and social impact of **InAmigos Foundation**. This project aims to spread awareness about the organization's initiatives and encourage people to volunteer, support, and contribute to social causes.
 
