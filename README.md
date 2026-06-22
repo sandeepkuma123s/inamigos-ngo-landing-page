@@ -63,7 +63,7 @@ inamigos-ngo-landing-page
 
 ## 🎯 Project Objective
 
-The objective of this project is to create awareness about NGO activities and demonstrate how web development can be used to support social initiatives, community welfare, education, environmental protection, and volunteer engagement.
+The objective of this project is to create awareness about NGO activities and demonstrate how web development can be used to support social initiatives, community welfare, education, environmental protection, and volunteer engagement...
 
 ---
 
