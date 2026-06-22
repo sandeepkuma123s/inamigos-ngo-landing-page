@@ -71,6 +71,3 @@ The objective of this project is to create awareness about NGO activities and de
 
 **Sandeep Kumar SankaraGuptam**
 
-
-
-`````````````````
